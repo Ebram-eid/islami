@@ -2,7 +2,7 @@ abstract class AppAssets{
   static const String defaultPath ="assets/images/";
   static const String splash = "${defaultPath}splash.png";
   static const String radio = "${defaultPath}radio_image.png";
-  static const String qur2an ="${defaultPath}qur2an_screen_logo.png";
+  static const String qur2an_screen ="${defaultPath}qur2an_screen_logo.png";
   static const String icon_sebha ="${defaultPath}icon_sebha.png";
   static const String icon_radio ="${defaultPath}icon_radio.png";
   static const String icon_quran ="${defaultPath}icon_quran.png";
